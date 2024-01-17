@@ -1,0 +1,16 @@
+package jdbc.com;
+
+public class Update_Data_Into_Table 
+{
+	public static void main(String[] args)
+	{
+		try
+		{
+			
+		}
+		catch()
+		{
+			
+		}
+	}
+}

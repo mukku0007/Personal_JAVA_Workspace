@@ -1,0 +1,9 @@
+package jdbc.com;
+
+public class Select_All_Data_From_Table 
+{
+	public static void main(String[] args) 
+	{
+		
+	}
+}

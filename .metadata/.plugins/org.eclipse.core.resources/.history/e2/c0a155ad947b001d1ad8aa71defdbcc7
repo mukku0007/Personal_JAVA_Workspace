@@ -1,0 +1,24 @@
+package jdbc.com;
+
+import java.sql.DriverManager;
+
+public class Insert_Image_Into_Table 
+{
+	public static void main(String[] args) 
+	{
+		try
+		{
+			Class.forName("com.mysql.cj.jdbc.Driver");
+			
+			String url 		= "jdbc:mysql://localhost:3306/demo";
+			String username = "root";
+			String password = "Mukesh@7250";
+			Connection con = DriverManager.getConnection(null, null)
+		}
+		catch(Exception e)
+		{
+			System.out.println(e);
+		}
+	}
+
+}

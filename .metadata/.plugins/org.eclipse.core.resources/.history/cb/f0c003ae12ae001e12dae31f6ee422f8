@@ -1,0 +1,15 @@
+package com.demo.SpringBoot_Excel_Report.model;
+
+import jakarta.persistence.Entity;
+import jakarta.persistence.Table;
+import lombok.Data;
+
+@Data
+@Entity
+@Table(name = "course")
+public class Course {
+
+	private Integer cid;
+	private String cname;
+	private Double price;
+}

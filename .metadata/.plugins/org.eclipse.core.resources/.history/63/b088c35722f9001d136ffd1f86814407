@@ -1,0 +1,14 @@
+package Array_List;
+
+import java.util.ArrayList;
+
+public class Array_List_Demo {
+	
+	public static void main(String[] args) {
+		
+		//Declare ArrayList
+		
+		ArrayList<Integer> al = new ArrayList<Integer>();
+	}
+
+}

@@ -1,0 +1,45 @@
+package Array_List;
+
+import java.util.ArrayList;
+
+public class Array_List_Demo_2 {
+
+	public static void main(String[] args) {
+		
+		ArrayList al = new ArrayList();
+		al.add("A");
+		al.add("B");
+		al.add("C");
+		al.add("D");
+		
+		System.out.println(al); // [A, B, C, D]
+		
+		ArrayList al2 = new ArrayList();
+		
+		//addAll() - add all ArrayList
+		al2.addAll(al);
+		al2.add("X");
+		al2.add("Y");
+		al2.add("Z");
+		
+		System.out.println("After Adding: "+al2); // [A, B, C, D, X, Y, Z]
+		
+		//removeAll() - remove all ArrayList
+		al2.removeAll(al);
+		System.out.println("After Removing: "+al2);
+		
+		al2.removeAll(al2);
+		System.out.println("After Removing: "+al2);
+		
+		ArrayList al3 = new ArrayList();
+		al3.add("X");
+		al3.add("Y");
+		al3.add("Z");
+		al3.add("A");
+		al3.add("B");
+		al3.add("C");
+		// sort() - Collections.sort() 
+		System.out.println("Elements in the ArrayList :"+al); //[A, B, C, D]
+		
+	}
+}

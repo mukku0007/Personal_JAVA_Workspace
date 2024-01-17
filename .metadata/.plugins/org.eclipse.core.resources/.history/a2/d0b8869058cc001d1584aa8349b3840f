@@ -1,0 +1,11 @@
+package String_Tokenizer;
+
+import java.util.StringTokenizer;
+
+public class Str_Tokenizer 
+{
+	public static void main(String[] args) 
+	{
+		StringTokenizer st = new String_Tokenizer();
+	}
+}

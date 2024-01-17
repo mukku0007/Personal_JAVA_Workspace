@@ -1,0 +1,6 @@
+FROM openjdk:11
+
+COPY target/First_Docker_App.jar  /usr/app
+
+
+WORKDIR  /usr/app

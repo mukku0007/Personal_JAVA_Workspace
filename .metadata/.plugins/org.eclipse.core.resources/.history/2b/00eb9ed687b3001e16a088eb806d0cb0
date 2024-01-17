@@ -1,0 +1,21 @@
+package Function_Program;
+
+class Computer {
+	
+	public String playMusic() {
+		return "Playing Music";
+	}
+	
+	public String giveMeAPen(int price) {
+		return "Pen";
+	}
+}
+
+public class Demo_2 {
+
+	public static void main(String[] args) {
+		
+		Computer obj = new Computer();
+		obj.playMusic();
+	}
+}

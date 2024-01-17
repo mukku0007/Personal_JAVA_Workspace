@@ -1,0 +1,6 @@
+com\projects\demo\databeagle\servlet\SwaggerConfigurationServlet.class
+com\projects\demo\databeagle\model\User.class
+com\projects\demo\databeagle\resources\UserServiceResource.class
+com\projects\demo\databeagle\model\Product.class
+com\projects\demo\databeagle\resources\ProductServiceResource.class
+com\projects\demo\MyResource.class

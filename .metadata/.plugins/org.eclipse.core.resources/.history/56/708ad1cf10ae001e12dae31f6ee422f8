@@ -1,0 +1,5 @@
+package com.demo.SpringBoot_Excel_Report.model;
+
+public class Course {
+
+}

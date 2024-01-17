@@ -1,0 +1,14 @@
+package com.demo.SpringBoot_Excel_Report.model;
+
+import jakarta.persistence.Entity;
+import jakarta.persistence.Table;
+import lombok.AllArgsConstructor;
+import lombok.NoArgsConstructor;
+
+@AllArgsConstructor
+@NoArgsConstructor
+@Entity
+@Table(name = "course")
+public class Course {
+
+}

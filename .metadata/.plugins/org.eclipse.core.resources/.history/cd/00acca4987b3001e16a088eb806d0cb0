@@ -1,0 +1,12 @@
+package Function_Program;
+
+class Computer {
+	
+	public playMusic() {
+		return "Playing Music";
+	}
+}
+
+public class Demo_2 {
+
+}

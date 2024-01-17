@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;AWS_API_List&apos;" deleteContents="false" description="Delete resource &apos;AWS_API_List&apos;" element1="/AWS_API_List" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1679286531872"/>&#x0A;<refactoring comment="Delete resource &apos;AWS-S3-API&apos;" deleteContents="false" description="Delete resource &apos;AWS-S3-API&apos;" element1="/AWS-S3-API" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1679458144805"/>
+</session>

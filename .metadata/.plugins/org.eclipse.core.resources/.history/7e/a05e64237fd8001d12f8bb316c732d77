@@ -1,0 +1,19 @@
+
+class Ball {
+
+	private int size;
+	private String color;
+	
+	Ball()
+	{
+		size = 0;
+		color = "Black";
+	}
+}
+
+class Main
+{
+  public static void main(String[] args) {
+	
+}	
+}

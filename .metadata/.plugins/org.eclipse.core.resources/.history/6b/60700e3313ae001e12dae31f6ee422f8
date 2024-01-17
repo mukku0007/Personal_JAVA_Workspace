@@ -1,0 +1,18 @@
+package com.demo.SpringBoot_Excel_Report.service;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.HttpStatus;
+import org.springframework.stereotype.Service;
+
+import com.demo.SpringBoot_Excel_Report.repository.CourseRepository;
+
+import jakarta.servlet.http.HttpServletResponse;
+
+@Service
+public class CourseService {
+
+	@Autowired
+	private CourseRepository courseRepository;
+	
+	public void generateExcel(HttpServletResponse httpServletResponse)
+}

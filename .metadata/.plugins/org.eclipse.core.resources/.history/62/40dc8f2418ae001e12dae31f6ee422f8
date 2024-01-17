@@ -1,0 +1,14 @@
+package com.demo.SpringBoot_Excel_Report.controller;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.demo.SpringBoot_Excel_Report.service.CourseService;
+
+@RestController
+public class CourseController {
+
+	@Autowired
+	private CourseService courseService;
+	
+}

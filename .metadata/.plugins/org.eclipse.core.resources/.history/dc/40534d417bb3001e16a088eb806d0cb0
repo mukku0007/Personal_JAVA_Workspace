@@ -1,0 +1,12 @@
+package Function_Program;
+
+class Calculator {
+	
+	public int add() {
+		return res;
+	}
+}
+
+public class Demo {
+
+}

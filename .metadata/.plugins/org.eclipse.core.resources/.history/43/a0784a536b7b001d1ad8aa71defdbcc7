@@ -1,0 +1,16 @@
+package jdbc.com;
+
+public class Insert_Data_Into_Table 
+{
+	public static void main(String[] args) 
+	{
+		try
+		{
+			Class.forName("com.mysql.cj.jdbc.Driver");
+		}
+		catch(Exception e)
+		{
+			System.out.println(e);
+		}
+	}
+}

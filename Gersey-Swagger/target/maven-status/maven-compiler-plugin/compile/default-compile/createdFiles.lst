@@ -1,0 +1,5 @@
+com\blogpost\swaggerblogpostws\controller\UserService.class
+com\blogpost\swaggerblogpostws\model\User.class
+com\blogpost\swaggerblogpostws\servlet\SwaggerConfigurationServlet.class
+com\blogpost\swaggerblogpostws\MyResource.class
+com\blogpost\swaggerblogpostws\controller\ApplicationConfig.class

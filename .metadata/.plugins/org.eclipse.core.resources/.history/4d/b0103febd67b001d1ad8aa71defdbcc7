@@ -1,0 +1,37 @@
+package jdbc.com;
+
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.PreparedStatement;
+import java.sql.ResultSet;
+
+public class ResultSetMetaData 
+{
+	public static void main(String[] args) 
+	{
+		try
+		{
+			Class.forName("com.mysql.cj.jdbc.Driver");
+			
+			String url = "jdbc:mysql://localhost:3306/employee";
+			String username = "root";
+			String password = "Mukesh@7250";
+			
+			Connection conn = DriverManager.getConnection(url,username,password);
+			
+			String q = "select * from emp";
+			
+			PreparedStatement pstmt = conn.prepareStatement(q);
+			
+			ResultSet rs = pstmt.executeQuery();
+			
+			java.sql.ResultSetMetaData rsmd = rs.getMetaData();
+			
+			System.out.println("Total Columns:" +rsmd.getColumnCount());
+		}
+		catch(Exception e)
+		{
+			System.out.println(e);
+		}
+	}
+}

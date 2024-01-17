@@ -1,0 +1,13 @@
+package Function_Program;
+
+public class CountDigit {
+
+	void countDigit(int n)
+	{
+		
+	}
+	
+	public static void main(String[] args) {
+		
+	}
+}

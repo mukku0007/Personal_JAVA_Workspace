@@ -1,0 +1,5 @@
+package jdbc.com;
+
+public class Insert_LargeImages_Into_Table {
+
+}

@@ -1,0 +1,17 @@
+package jdbc.com;
+
+public class Insert_Image_Into_Table 
+{
+	public static void main(String[] args) 
+	{
+		try
+		{
+			
+		}
+		catch(Exception e)
+		{
+			System.out.println(e);
+		}
+	}
+
+}

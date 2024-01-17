@@ -1,0 +1,31 @@
+package Array_List;
+
+import java.util.ArrayList;
+
+public class Array_List_Demo {
+	
+	public static void main(String[] args) {
+		
+		//Declare ArrayList
+		
+//		ArrayList<Integer> al = new ArrayList<Integer>();
+//		ArrayList<String> al2 = new ArrayList<String>();
+//		List al3 = new ArrayList();
+		ArrayList al4 = new ArrayList();
+		
+		
+		// Add new Elements to the ArrayList
+		
+		al4.add(100);
+		al4.add("Welcome");
+		al4.add(15.5);
+		al4.add('A');
+		al4.add(true);
+		
+		System.out.println(al4);  //[100, Welcome, 15.5, A, true]
+		
+		// Find the Size of ArrayList
+		System.out.println("Number of Elements in the ArrayList: " +al4.size());
+	}
+
+}

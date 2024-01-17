@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="D:\PERSONAL JAVA WORKSPACE\SpringBoot_Docker_Deployment"/>
+			<item value="D:\PERSONAL JAVA WORKSPACE\Swagger"/>
+			<item value="D:\PERSONAL JAVA WORKSPACE\Student_CRUD"/>
+			<item value="D:\PERSONAL JAVA WORKSPACE\SpringBootCRUD"/>
+			<item value="D:\PERSONAL JAVA WORKSPACE\SpringBoot_Excel_Report"/>
+			<item value="D:\PERSONAL JAVA WORKSPACE\SpringBoot"/>
+			<item value="C:\Users\MukeshKumar\Downloads\SpringBoot"/>
+			<item value="C:\Users\MukeshKumar\Downloads\employee"/>
+			<item value="C:\Users\MukeshKumar\Downloads\fspeclipse"/>
+			<item value="C:\Users\MukeshKumar\Downloads\f"/>
+			<item value="C:\Users\MukeshKumar\Downloads\WeatherApp"/>
+			<item value="C:\Users\MukeshKumar\Downloads\SpringBootCRUD"/>
+			<item value="C:\Users\MukeshKumar\Downloads\speaking-clock-master"/>
+			<item value="C:\Users\MukeshKumar\Downloads\Worker"/>
+			<item value="C:\Users\MukeshKumar\Downloads\StudentSwagger"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="internal"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="D:\PERSONAL JAVA WORKSPACE\Java_File_Management\src\com\file\Read_File.java"/>
+			<item value="D:\PERSONAL JAVA WORKSPACE\HCP_API_List"/>
+			<item value="D:\PERSONAL JAVA WORKSPACE"/>
+			<item value="D:\PERSONAL JAVA WORKSPACE\Java_Program\src\logger\LogClass.java"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="com.docker.SpringBoot_Docker_Deployment"/>
+			<item value="com.weather.Weather_API"/>
+			<item value="com.json_object"/>
+			<item value="com.annotation.Annotation"/>
+			<item value="com.emp"/>
+			<item value="com.aws"/>
+			<item value="com.HCI_API.com"/>
+		</list>
+		<list key="groupId">
+			<item value="com.docker"/>
+			<item value="com.weather"/>
+			<item value="com.json_object"/>
+			<item value="com.annotation"/>
+			<item value="com.emp"/>
+			<item value="com.aws"/>
+			<item value="com.HCI_API.com"/>
+		</list>
+		<list key="artifactId">
+			<item value="SpringBoot_Docker_Deployment"/>
+			<item value="Weather_API"/>
+			<item value="JSON_Object"/>
+			<item value="Annotation"/>
+			<item value="Employee"/>
+			<item value="AWS-S3-API"/>
+			<item value="HCI_API_List"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+</section>

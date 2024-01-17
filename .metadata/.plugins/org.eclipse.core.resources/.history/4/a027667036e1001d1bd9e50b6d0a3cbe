@@ -1,0 +1,9 @@
+package collection;
+
+public class StudentDemo {
+
+	public static void main(String[] args) {
+		
+		List<Student> student = new ArrayList<>();
+	}
+}

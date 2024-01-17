@@ -1,0 +1,5 @@
+package jdbc.com;
+
+public class Insert_Data_Into_Table_Through_User {
+
+}

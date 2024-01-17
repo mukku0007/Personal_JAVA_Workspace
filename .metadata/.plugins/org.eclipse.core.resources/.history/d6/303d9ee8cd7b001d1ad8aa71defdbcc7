@@ -1,0 +1,16 @@
+package jdbc.com;
+
+public class Delete_Data_From_Table 
+{
+	public static void main(String[] args) 
+	{
+		try
+		{
+			
+		}
+		catch()
+		{
+			
+		}
+	}
+}

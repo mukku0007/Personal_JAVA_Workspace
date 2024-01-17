@@ -1,0 +1,9 @@
+package Array_Program;
+
+public class Duplicate_Element {
+
+	public static void main(String[] args) {
+		
+		int arr[] = {1,5,4,2,1,4,7};
+	}
+}

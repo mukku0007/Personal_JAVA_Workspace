@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;JWT_Authentication&apos;" deleteContents="true" description="Delete resource &apos;JWT_Authentication&apos;" element1="/JWT_Authentication" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1671816628996"/>&#x0A;<refactoring comment="Delete resource &apos;JWT_Authentication&apos;" deleteContents="false" description="Delete resource &apos;JWT_Authentication&apos;" element1="/JWT_Authentication" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1671817208125"/>
+</session>

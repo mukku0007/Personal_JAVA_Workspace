@@ -1,0 +1,10 @@
+package Star_Pattern;
+
+public class Star_P2 
+{
+	public static void main(String[] args) 
+	{
+		int size = 5;
+		
+	}
+}

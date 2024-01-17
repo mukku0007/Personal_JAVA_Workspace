@@ -1,0 +1,13 @@
+package Array_List;
+
+public class Array_List_Demo_3 {
+
+	public static void main(String[] args) {
+		
+		String arr[] = {"Dog", "Cat","Monkey"};
+		for(String value : arr)
+		{
+			System.out.println(value);
+		}
+	}
+}

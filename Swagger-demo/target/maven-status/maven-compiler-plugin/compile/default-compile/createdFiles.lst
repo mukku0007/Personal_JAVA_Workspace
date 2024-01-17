@@ -1,0 +1,3 @@
+com\jersey\swagger\servlet\SwaggerConfigurationServlet.class
+com\jersey\swagger\model\Item.class
+com\jersey\swagger\resources\Product.class

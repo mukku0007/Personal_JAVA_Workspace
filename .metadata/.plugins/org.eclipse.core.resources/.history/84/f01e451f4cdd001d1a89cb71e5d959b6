@@ -1,0 +1,26 @@
+package Function_Program;
+
+import java.util.Scanner;
+
+public class CountDigit {
+
+	static int countDigit(int n)
+	{
+		int count = 0;
+		n = n/10;
+		
+		for (int i = 0; i > 0; i++)
+		{
+			count ++;
+		}
+		return count;
+	}
+	
+	public static void main(String[] args) 
+	{
+		Scanner sc = new Scanner(System.in);
+		System.out.println("Enter a Number");
+		int print = countDigit(n);
+		System.out.println(print);
+	}
+}

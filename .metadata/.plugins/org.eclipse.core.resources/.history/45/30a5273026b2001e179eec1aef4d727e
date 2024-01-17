@@ -1,0 +1,19 @@
+package Array_Program;
+
+import java.util.HashSet;
+import java.util.Set;
+
+public class Duplicate_Element {
+
+	public static void main(String[] args) {
+		
+		int arr[] = {1,5,4,2,1,4,7};
+		
+		Set<Integer> uniqueNumber = new HashSet<>();
+		boolean isDuplicateExits = false;
+		
+		for(int i = 0; i < arr.length; i++) {
+			
+		}
+	}
+}

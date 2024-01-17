@@ -1,0 +1,12 @@
+package com.emp.Service;
+
+import java.util.List;
+
+import com.emp.Entity.Employee;
+
+public interface EmployeeService {
+
+	List<Employee> allEmployee();
+	
+	Employee addEmployee(Employee employee);
+}

@@ -1,0 +1,20 @@
+package jdbc.com;
+
+public class Update_Data_Into_Table 
+{
+	public static void main(String[] args)
+	{
+		try
+		{
+			Class.forName("com.mysql.cj.jdbc.Driver");
+			
+			String url = "jdbc:mysql://localhost:3306/demo";
+			String username = "root";
+			String password = "Mukesh@7250";
+		}
+		catch(Exception e)
+		{
+			System.out.println(e);
+		}
+	}
+}
